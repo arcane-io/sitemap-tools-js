@@ -1,0 +1,32 @@
+{
+  "name": "sitemap-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "bin": {
+    "sitemap-tools": "bin/sitemap-tools"
+  },
+  "preferGlobal": true,
+  "scripts": {
+    "cli": "node lib/cli.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcane-io/sitemap-tools-js.git"
+  },
+  "keywords": [
+    "sitemap",
+    "tools"
+  ],
+  "author": "Catalin Manolescu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arcane-io/sitemap-tools-js/issues"
+  },
+  "homepage": "https://github.com/arcane-io/sitemap-tools-js#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.13.0"
+  }
+}
