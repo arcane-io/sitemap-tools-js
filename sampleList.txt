@@ -1,0 +1,5 @@
+some-url
+someotheurl  	 http://example.com
+
+https://urlafternewline
+anotherurlwithoutprotocol
